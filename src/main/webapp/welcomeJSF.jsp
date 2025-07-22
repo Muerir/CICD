@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para para el Fotk - Julio 18 2025 a las 7:50pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit para para el Fotk - Julio 21 2025 a las 8:22pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
